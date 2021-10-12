@@ -3,12 +3,9 @@
 ## Introduction
 
 Welcome to this live coding exercise. Today we'll be building a type-ahead/autocomplete component in React :)
+
 The exercises are designed to test your core understanding of web fundamentals (HTML, CSS, JS) and React.
-There are four tasks in total,
-building a common, typesafe async hook that handles all the async logic in the app
-building a hook that handles querying the server in a performant way when typing in the type-ahead box
-incorporating the hooks and building out the basic type-ahead component
-using a library to add accessibility to the type-ahead box
+There are four tasks in total, building a common, typesafe async hook that handles all the async logic in the app, building a hook that handles querying the server in a performant way when typing in the type-ahead box, incorporating the hooks and building out the basic type-ahead component, using a library to add accessibility to the type-ahead box
 
 ## Tasks
 
