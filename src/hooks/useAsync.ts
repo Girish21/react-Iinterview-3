@@ -25,7 +25,7 @@
  * it'll return `error` which contains the error information
  *
  * the hook should also be type safe and should allow for proper
- * type defanitions for data and as well as the Error
+ * type defanitions for data and as well for the Error
  *
  * the api we're looking for is
  *
